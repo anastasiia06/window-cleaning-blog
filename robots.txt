@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /confidential/
+Disallow: /privacy.html
+
+Sitemap: https://window-cleaning-blog.com/sitemap.xml
